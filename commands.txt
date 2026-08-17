@@ -1,0 +1,4 @@
+to run the environment : python -m venv .venv
+                         .venv\Scripts\activate
+
+to run the website : python -m uvicorn main:app --reload
